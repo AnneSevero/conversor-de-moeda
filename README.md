@@ -1,3 +1,3 @@
-# Projeto de sistema de taxação de câmbio
+# Conversor de Moeda
 
-## O seguinte projeto foi proposto pela Alura, onde harevá a criação de um sistema de taxação de câmbio !
+## Esse projeto é um aplicativo simples de linha de comando em Java que permite aos usuários converter valores entre diferentes moedas.
