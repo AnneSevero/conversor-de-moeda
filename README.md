@@ -24,3 +24,6 @@ Para executar este projeto, é necessário Java Development Kit (JDK) instalado 
 ## Repositório
 
 Para clonar o repositório para sua máquina local, use:
+
+```bash
+git clone https://github.com/AnneSevero/conversor-de-moeda.git
